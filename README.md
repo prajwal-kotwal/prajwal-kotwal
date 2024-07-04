@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/prajwal-kotwal/images/blob/main/ilgin-gungor-calisma-masasi11.gif)
 <h1 align="center">Hi 👋, I'm Prajwal Kotwal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..." >
+<img align="right" alt="Coding" width="400" src="https://github.com/prajwal-kotwal/images/blob/main/githubProfile.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal-kotwal&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal-kotwal" /> </p>
 

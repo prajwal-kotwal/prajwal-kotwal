@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Prajwal Kotwal</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="coding" width="400" src=""C:\Users\SMC-HP\Downloads\githubProfile.gif"" >
+<img align="right" alt="coding" width="400" src="C:\Users\SMC-HP\Downloads\githubProfile.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal-kotwal&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal-kotwal" /> </p>
 
